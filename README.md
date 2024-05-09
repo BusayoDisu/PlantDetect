@@ -1,6 +1,6 @@
 # PlantDetect
 
-PROJECT TITLE:"Alberta Plant ID: Harnessing Machine Learning to Preserve and Explore Local Flora"
+# PROJECT TITLE:"Alberta Plant ID: Harnessing Machine Learning to Preserve and Explore Local Flora"
 Welcome to my personal project.
 
 Problem Statement
